@@ -14,3 +14,5 @@
 
 *   `docs: Update README with environment setup instructions`
     *   This commit updates the `README` file with instructions on how to set up the development environment for this project.
+
+    * `feat: Implement Item, Borrower, and LoanManager classes`
